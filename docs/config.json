@@ -7,7 +7,15 @@
       "title": "Getting Started",
       "position": 0,
       "id": "1",
-      "children": []
+      "children": [
+        {
+          "type": "link",
+          "slug": "getting-started/Sample-page",
+          "title": "Sample page",
+          "id": "dm9d8xiyr",
+          "children": []
+        }
+      ]
     },
     {
       "type": "link",
